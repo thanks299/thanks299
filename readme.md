@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm thanks agbeble</h1>
+<h1 align="center">Hi 👋, I'm Thanks Agbeble</h1>
 <h3 align="center">A passionate full stack developer from nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanks299&label=Profile%20views&color=0e75b6&style=flat" alt="thanks299" /> </p>
