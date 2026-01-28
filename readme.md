@@ -6,16 +6,12 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanks299" alt="thanks299" /></a>
 </div>
 
----
-
 ## 📋 About Me
 
 - 🌱 Currently learning: **Flutter**, **Go**
 - 💬 Ask me about: **React**, **Node.js**, **Express**, **DevOps**
 - 📫 Reach me at: **thanksagbeble@gmail.com**
 - ⚡ Fun fact: I love reading books
-
----
 
 ## 🤝 Connect with Me
 
@@ -25,8 +21,6 @@
 <a href="https://www.linkedin.com/in/iamthanks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamthanks" height="40" width="40" /></a>
 <a href="https://instagram.com/iamthanks2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamthanks2" height="40" width="40" /></a>
 </p>
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -76,8 +70,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://zapier.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/></a>
 </p>
-
----
 
 ## 📊 GitHub Stats
 
