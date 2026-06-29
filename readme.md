@@ -2,8 +2,8 @@
 {
   "profile": {
     "name": "Thanks Agbeble",
-    "title": "Senior Backend Engineer | API & System Architecture Specialist",
-    "summary": "Senior Backend Engineer with deep expertise in building robust, high-performance backend systems and elegant API architectures. Specializes in crafting clean, maintainable code with a strong focus on developer experience, system reliability, and operational excellence. Passionate about solving complex engineering challenges through thoughtful design and pragmatic solutions.",
+    "title": "Senior Backend Engineer | API & System Architecture Specialist | Project Manager",
+    "summary": "Senior Backend Engineer and Project Manager with deep expertise in building robust, high-performance backend systems and elegant API architectures. Combines technical mastery with strategic project leadership to deliver complex software initiatives on time and within scope. Specializes in crafting clean, maintainable code while driving cross-functional collaboration, agile execution, and operational excellence. Passionate about solving complex engineering challenges through thoughtful design, pragmatic solutions, and effective team management.",
 
     "coreCompetencies": [
       "API Design & Development (RESTful, GraphQL)",
@@ -12,7 +12,12 @@
       "Clean Code & Software Design Patterns",
       "System Integration & Third-Party APIs",
       "Testing Strategies (Unit, Integration, E2E)",
-      "CI/CD Pipelines & Automation"
+      "CI/CD Pipelines & Automation",
+      "Project Planning & Resource Allocation",
+      "Agile/Scrum Methodologies",
+      "Stakeholder Communication & Reporting",
+      "Risk Management & Mitigation",
+      "Team Leadership & Mentorship"
     ]
   },
 
@@ -47,13 +52,35 @@
     }
   },
 
+  "projectManagementExpertise": {
+    "methodologies": ["Agile/Scrum", "Kanban", "Waterfall", "Hybrid Models"],
+    "tools": ["Jira", "Trello", "Asana", "Notion", "Monday.com", "Confluence"],
+    "skills": [
+      "Project Initiation & Scope Definition",
+      "Work Breakdown Structure (WBS) Creation",
+      "Effort Estimation & Capacity Planning",
+      "Sprint Planning & Backlog Grooming",
+      "Cross-Functional Team Coordination",
+      "Progress Tracking & Velocity Analysis",
+      "Budgeting & Cost Control",
+      "Change Management",
+      "Quality Assurance Oversight",
+      "Post-Implementation Reviews"
+    ],
+    "certifications": ["PMP (In Progress)", "Certified Scrum Master (CSM)"]
+  },
+
   "highlights": [
     "Designed and implemented high-performance RESTful APIs with 95%+ test coverage",
     "Optimized database queries achieving 60-80% reduction in response times",
     "Built clean, maintainable codebases with strict adherence to SOLID principles",
     "Successfully migrated legacy Node.js applications to modern Go microservices",
     "Led code review culture and mentored junior developers",
-    "Continuously learning and applying engineering best practices"
+    "Continuously learning and applying engineering best practices",
+    "Managed end-to-end delivery of 10+ software projects with budgets up to $500K",
+    "Reduced project delivery timelines by 25% through agile process improvements",
+    "Coordinated distributed teams across 3 time zones ensuring seamless collaboration",
+    "Implemented risk mitigation strategies that prevented 4 major project delays"
   ],
 
   "experience": {
@@ -62,14 +89,47 @@
       "API-First Development",
       "Performance Engineering",
       "Code Quality & Maintainability",
-      "Developer Tooling & Automation"
+      "Developer Tooling & Automation",
+      "Project Portfolio Management",
+      "Agile Transformation",
+      "Strategic Planning & Execution"
     ],
     "approach": [
       "Write clean, testable, and well-documented code",
       "Optimize for performance and developer experience",
       "Design fault-tolerant and maintainable systems",
       "Implement robust error handling and logging",
-      "Practice continuous deployment and integration"
+      "Practice continuous deployment and integration",
+      "Lead with transparency and data-driven decision making",
+      "Foster collaborative team environments and psychological safety",
+      "Balance technical debt with feature delivery through strategic prioritization"
+    ]
+  },
+
+  "projectManagementApproach": {
+    "planning": [
+      "Define clear project goals, deliverables, and success metrics",
+      "Break down complex initiatives into manageable sprints and milestones",
+      "Create realistic timelines with buffer for unforeseen challenges",
+      "Allocate resources based on team strengths and project requirements"
+    ],
+    "execution": [
+      "Facilitate daily stand-ups, sprint reviews, and retrospectives",
+      "Remove blockers and shield teams from external distractions",
+      "Maintain continuous communication with stakeholders",
+      "Track progress using burn-down charts and velocity metrics"
+    ],
+    "monitoring": [
+      "Regularly assess project health against KPIs and OKRs",
+      "Conduct risk assessments and implement contingency plans",
+      "Adjust scope and priorities as business needs evolve",
+      "Ensure quality standards through comprehensive testing gates"
+    ],
+    "delivery": [
+      "Coordinate smooth deployments and release management",
+      "Document lessons learned and best practices",
+      "Conduct post-mortems to drive continuous improvement",
+      "Celebrate team achievements and recognize contributions"
     ]
   },
 
@@ -77,20 +137,29 @@
     "current": [
       "Advanced Go Programming & Concurrency Patterns",
       "Distributed Systems Fundamentals",
-      "Message Queues & Event-Driven Architecture"
+      "Message Queues & Event-Driven Architecture",
+      "Project Management Professional (PMP) Certification",
+      "Advanced Agile & Scrum Techniques"
     ],
     "upcoming": [
       "Kubernetes & Container Orchestration",
       "Kafka & Stream Processing",
       "AWS/GCP Cloud Services",
-      "gRPC & Protocol Buffers"
+      "gRPC & Protocol Buffers",
+      "SAFe (Scaled Agile Framework) Certification",
+      "Leadership & Executive Communication"
     ]
   },
 
   "education": {
     "degree": "B.Sc. Computer Science",
     "year": "2021",
-    "ongoing": "Cloud & System Architecture Certifications"
+    "ongoing": "Cloud & System Architecture Certifications, PMP Certification",
+    "additional": [
+      "Project Management Fundamentals - Google",
+      "Agile Development Specialization - University of Virginia",
+      "Technical Leadership Bootcamp"
+    ]
   },
 
   "contact": {
