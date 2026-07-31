@@ -2,16 +2,16 @@
 {
   "profile": {
     "name": "Thanks Agbeble",
-    "title": "Senior Backend Engineer | API & System Architecture Specialist | Project Manager",
-    "summary": "Senior Backend Engineer and Project Manager with deep expertise in building robust, high-performance backend systems and elegant API architectures. Combines technical mastery with strategic project leadership to deliver complex software initiatives on time and within scope. Specializes in crafting clean, maintainable code while driving cross-functional collaboration, agile execution, and operational excellence. Passionate about solving complex engineering challenges through thoughtful design, pragmatic solutions, and effective team management.",
+    "title": "Backend Engineer | API & System Architecture Specialist | Project Manager",
+    "summary": "Backend Engineer and Project Manager with deep expertise in building robust, high-performance backend systems and elegant API architectures. Combines technical mastery with strategic project leadership to deliver complex software initiatives on time and within scope. Specializes in crafting clean, maintainable code while driving cross-functional collaboration, agile execution, and operational excellence. Passionate about solving complex engineering challenges through thoughtful design, pragmatic solutions, and effective team management.",
 
     "coreCompetencies": [
-      "API Design & Development (RESTful, GraphQL)",
+      "API Design & Development (RESTful)",
       "Database Architecture & Query Optimization",
       "Backend Performance Tuning & Scalability",
       "Clean Code & Software Design Patterns",
       "System Integration & Third-Party APIs",
-      "Testing Strategies (Unit, Integration, E2E)",
+      "Testing Strategies (Unit, Integration)",
       "CI/CD Pipelines & Automation",
       "Project Planning & Resource Allocation",
       "Agile/Scrum Methodologies",
@@ -30,10 +30,8 @@
       "testing": ["Jest", "Mocha", "Go testing", "Pytest"]
     },
     "infrastructure": {
-      "containerization": ["Docker"],
       "ci_cd": ["GitHub Actions", "GitLab CI"],
-      "servers": ["Nginx", "Apache"],
-      "os": ["Linux", "macOS"]
+      "os": ["Linux"]
     },
     "security": {
       "bestPractices": [
@@ -67,15 +65,14 @@
       "Quality Assurance Oversight",
       "Post-Implementation Reviews"
     ],
-    "certifications": ["PMP (In Progress)", "Certified Scrum Master (CSM)"]
+    "certifications": ["PMP (In Progress)", MIT Degree (in progress)"]
   },
 
   "highlights": [
     "Designed and implemented high-performance RESTful APIs with 95%+ test coverage",
     "Optimized database queries achieving 60-80% reduction in response times",
     "Built clean, maintainable codebases with strict adherence to SOLID principles",
-    "Successfully migrated legacy Node.js applications to modern Go microservices",
-    "Led code review culture and mentored junior developers",
+    "Led code review culture",
     "Continuously learning and applying engineering best practices",
     "Managed end-to-end delivery of 10+ software projects with budgets up to $500K",
     "Reduced project delivery timelines by 25% through agile process improvements",
@@ -135,7 +132,6 @@
 
   "learningPath": {
     "current": [
-      "Advanced Go Programming & Concurrency Patterns",
       "Distributed Systems Fundamentals",
       "Message Queues & Event-Driven Architecture",
       "Project Management Professional (PMP) Certification",
@@ -153,13 +149,8 @@
 
   "education": {
     "degree": "B.Sc. Computer Science",
-    "year": "2021",
-    "ongoing": "Cloud & System Architecture Certifications, PMP Certification",
-    "additional": [
-      "Project Management Fundamentals - Google",
-      "Agile Development Specialization - University of Virginia",
-      "Technical Leadership Bootcamp"
-    ]
+    "year": "2024",
+    "ongoing": "Msc. information technology, MIT",
   },
 
   "contact": {
