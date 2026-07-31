@@ -65,7 +65,7 @@
       "Quality Assurance Oversight",
       "Post-Implementation Reviews"
     ],
-    "certifications": ["PMP (In Progress)", MIT Degree (in progress)"]
+    "certifications": ["PMP (In Progress), MIT Degree (in progress)"]
   },
 
   "highlights": [
